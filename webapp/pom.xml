@@ -11,7 +11,7 @@
   </parent>
 
   <artifactId>nginx</artifactId>
-  <packaging>html</packaging>
+  <packaging>war</packaging>
   <name>nginx</name>
   <description>nginx.</description>
 
